@@ -1,2 +1,2 @@
 # CalendarViewSwiftUI
-https://github.com/SNikitaSergeevic/CalendarViewSwiftUI/blob/main/CalendarView.gif
+![Calendar](https://github.com/SNikitaSergeevic/CalendarViewSwiftUI/blob/main/CalendarView.gif)
